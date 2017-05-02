@@ -1,5 +1,3 @@
-# Algorithm-for-Finding-Buildings-with-Facade-Risk
-
 Structurally comprised building facades can be dangerous to New York City residents. Every year dozens of incidents of material falling from facades are reported to the Department of Buildings. Building owners who own buildings considered high risk (higher than 6 floors) are required to provide evidence their building facade is meeting the safety standards according to the Façade Inspection and Safety Program. However, many buildings that should comply with this law are unknown to the DOB.
 With Christian Camiolo, I developed an algorithm in Python that mined archival data from the early 20th century to find these buildings.  The dataset was composed of easements and addresses that were mined, cleaned and then validated as to whether they still exist. In addition, the dataset contained the original owner and architect, and information about the materials used in the building. This additional data could be used to develop a risk model to predict unsafe facades.
 
