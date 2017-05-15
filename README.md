@@ -33,3 +33,6 @@ The algorithm categorized the easements into categories of existence. This inclu
 
 An interactive map with address popups was created using the R Leaftlet package that generates maps and automatically exports in D3 (see folder). Images of the map are shown below, as can be seen, the highest density of buildings that "exist" are located in the Washington Heights region of the City, and the lowest is located in lower Manhattan:
 
+![capture wash heights](https://cloud.githubusercontent.com/assets/11237613/26074499/02629842-3980-11e7-8f2e-4b1ef8c1d29f.PNG)
+
+
