@@ -35,4 +35,4 @@ An interactive map with address popups was created using the R Leaftlet package 
 
 ![capture wash heights](https://cloud.githubusercontent.com/assets/11237613/26074499/02629842-3980-11e7-8f2e-4b1ef8c1d29f.PNG)
 
-![capture lower](https://cloud.githubusercontent.com/assets/11237613/26074646/896c4702-3980-11e7-804a-263a28e7ba6b.PNG)
+![capture lower](https://cloud.githubusercontent.com/assets/11237613/26074710/dc98c432-3980-11e7-8e9b-b813b7dccac6.PNG)
