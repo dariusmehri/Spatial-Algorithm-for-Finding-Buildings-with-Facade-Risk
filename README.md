@@ -29,11 +29,7 @@ This easement states that there is an address on the south side of 114th street,
 
 
 ### Results
-The algorithm categorized the easements into categories of existence. This included “exists”, “probably demolished” and “unknown.” Out of 2110 easements processed, 875 were likely to exist while 764 were probably demolished:
+The algorithm categorized the easements into categories of existence. This included “exists”, “probably demolished” and “unknown.” Out of 2110 easements processed, 875 (41.5%) were likely to exist while 1235 (58.5%) were probably demolished.
 
-Categories of Existence	Number	Percent of Total
-Exists	875	41.5%
-Probably Demolished	764	36.2%
-Unknown	471	22.3%
-
+An interactive map with address popups was created using the R Leaftlet package that generates maps and automatically exports in D3 (see folder). Images of the map are shown below, as can be seen, the highest density of buildings that "exist" are located in the Washington Heights region of the City, and the lowest is located in lower Manhattan:
 
